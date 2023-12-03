@@ -28,9 +28,8 @@ Let's spark a collab!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://ps.linkedin.com/in/karam-abu-ghaboush-42b986242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Karam-AbuGhaboush" height="30" width="40" /></a>
-<a href="https://instagram.com/basharherbawi.cpp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="basharherbawi" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/zherofx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="zherofx" height="30" width="40" /></a>
-<a href="https://discord.gg/zHeroFx#6041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zHeroFx#6041" height="30" width="40" /></a>
+<a href="https://www.instagram.com/karamyzx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="basharherbawi" height="30" width="40" /></a>
+<a href="https://discord.gg/Karamyzx#2138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zHeroFx#6041" height="30" width="40" /></a>
 </p>
 
 
